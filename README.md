@@ -1,7 +1,7 @@
 # Mern Taks Manager App API
 
 - Webiste Link: [Demo](https://mern-todo-app-4jen.onrender.com)
-- Frontend Repo: [Backend](https://github.com/aliasif1/mern_todo_app)
+- Frontend Repo: [Frontend](https://github.com/aliasif1/mern_todo_app)
 
 ## Description
 An task manager application built with MERN stack technology. 
