@@ -17,3 +17,4 @@ An task manager application built with MERN stack technology.
 - JWT Authentication
 - Multiple Routes
 - Tasks Saved to Database
+
