@@ -1,7 +1,7 @@
-# Mern Taks Manager App
+# Mern Taks Manager App API
 
 - Webiste Link: [Demo](https://mern-todo-app-4jen.onrender.com)
-- Backend Repo: [Backend](https://github.com/aliasif1/mern_todo_app)
+- Frontend Repo: [Backend](https://github.com/aliasif1/mern_todo_app)
 
 ## Description
 An task manager application built with MERN stack technology. 
@@ -10,7 +10,7 @@ An task manager application built with MERN stack technology.
     - React
     - Express
     - Node
-    - Mongoose
+    - MongoDB
 
 ## Features
 - Mobile Frendly 
@@ -18,3 +18,4 @@ An task manager application built with MERN stack technology.
 - Multiple Routes
 - Tasks Saved to Database
 
+#### Images taken from [unsplash](https://unsplash.com/)
